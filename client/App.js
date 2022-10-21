@@ -3,7 +3,7 @@ import React from 'react';
 const App = () => {
   return (
     <div className='row container'>
-      {/* The music starts here! */}
+      {/* The game starts here! */}
     </div>
   );
 };
